@@ -1,7 +1,7 @@
 This is Ubuntu 14.04 x86_64 LTS with Cuda 6.5 installed.
 
 
-1) Make sure the driver version of host is 34.29. This is the one coming with CUDA 6.5.14.
+1) Make sure the driver version of host is 340.29. This is the one coming with CUDA 6.5.14.
 ---
 The host must have the same version of Cuda driver installed. The image uses NVIDIA-Linux-x86_64-340.29 now. You can download this driver from http://www.nvidia.com/Download/index.aspx.
 
